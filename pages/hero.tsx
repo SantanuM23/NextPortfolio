@@ -33,7 +33,7 @@ const Hero = () => {
     <div className="section-home h-screen">
       <div className="content-home h-full flex flex-col items-center justify-center">
         <h3 className="text-7xl p">Hello!</h3>
-        <h1 className={`${dancing.className} text-9xl pb-4 bg-my-gradient bg-clip-text text-transparent`}>I'm Santanu,</h1>
+        <h1 className={`text-9xl pb-4 bg-my-gradient bg-clip-text text-transparent ${dancing.className}`}>{`I'm Santanu,`}</h1>
         <h2 className="text-4xl p-1 font-light">
           A<span>{type}</span>
           <Cursor />
