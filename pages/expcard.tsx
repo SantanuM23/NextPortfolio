@@ -9,11 +9,6 @@ interface Props {
   dates: string;
   location: string;
   image?: string;
-  links?: readonly {
-    icon: React.ReactNode;
-    title: string;
-    href: string;
-  }[];
 }
 
 export default function Expcard({
@@ -22,7 +17,6 @@ export default function Expcard({
   dates,
   location,
   image,
-  links,
 }: Props) {
   return (
     <li className="relative ml-10 py-4">
