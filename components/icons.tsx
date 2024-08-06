@@ -960,4 +960,3 @@ z"
     </svg>
   ),
 };
-export default Icons;

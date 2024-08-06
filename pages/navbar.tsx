@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 import { buttonVariants } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { Dock, DockIcon } from "@/components/magicui/dock";
-import { Icons } from "./icons";
+import { Icons } from "../components/icons";
 import { BorderBeam } from "@/components/magicui/border-beam";
 
 export type IconProps = React.HTMLAttributes<SVGElement>;

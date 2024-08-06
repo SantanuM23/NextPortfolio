@@ -3,8 +3,7 @@
 import { useTheme } from "next-themes";
 import { MagicCard } from "@/components/magicui/magic-card";
 import React, { forwardRef, useRef } from "react";
-import { BorderBeam } from "@/components/magicui/border-beam";
-import { Icons } from "../icons";
+import { Icons } from "../../components/icons";
 import { Meteors } from "@/components/magicui/meteors";
 
 import { cn } from "@/lib/utils";

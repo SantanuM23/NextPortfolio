@@ -27,5 +27,3 @@ export const DATA = {
     },
   ],
 } as const;
-
-export default DATA;

@@ -1,7 +1,7 @@
 import React from 'react'
 import Expcard from './expcard'
 import BlurFade from '@/components/magicui/blur-fade'
-import { DATA } from './data'
+import { DATA } from '../components/data'
 
 const work = () => {
   return (

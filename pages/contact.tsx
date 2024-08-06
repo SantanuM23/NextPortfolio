@@ -1,6 +1,6 @@
 import React from "react";
 import { Dock, DockIcon } from "@/components/magicui/hordock";
-import { Icons } from "./icons";
+import { Icons } from "../components/icons";
 import BlurFade from "@/components/magicui/blur-fade";
 import { BorderBeam } from "@/components/magicui/border-beam";
 import Link from "next/link";

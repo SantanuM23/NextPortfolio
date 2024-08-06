@@ -2,7 +2,7 @@ import React from "react";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
 import { Dancing_Script } from "next/font/google";
 import Link from "next/link";
-import { Icons } from "./icons";
+import { Icons } from "../components/icons";
 import { Dock, DockIcon } from "@/components/magicui/hordock";
 import { BrainCircuit, Gamepad2 } from "lucide-react";
 import { BorderBeam } from "@/components/magicui/border-beam";
