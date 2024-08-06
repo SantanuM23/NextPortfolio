@@ -1,5 +1,3 @@
-import { Icons } from "./icons";
-import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   experience: [
@@ -29,3 +27,5 @@ export const DATA = {
     },
   ],
 } as const;
+
+export default DATA;
