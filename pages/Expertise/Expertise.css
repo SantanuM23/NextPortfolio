@@ -1,0 +1,10 @@
+
+.section-expertise{
+    width: 100vw;
+    height: fit-content;
+}
+.content-expertise{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}

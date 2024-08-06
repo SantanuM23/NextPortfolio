@@ -1,0 +1,36 @@
+#effect{
+}
+#navbar{
+    position: fixed;
+    z-index: 999;
+    height: 100vh;
+    width: fit-content;
+    align-content: center;
+}
+
+
+#hero{
+    overflow-x: hidden;
+    position: relative;
+}
+
+#skills{
+    overflow-x: hidden;
+    position: relative;
+}
+
+#work{
+    overflow-x: hidden;
+    position: relative;
+}
+
+#contact{
+    overflow-x: hidden;
+    position: relative;
+}
+
+#footer{
+    overflow-x: hidden;
+    position: relative;
+}
+
